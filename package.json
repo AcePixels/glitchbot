@@ -25,7 +25,7 @@
     "leekslazylogger": "^1.1.9",
     "mongodb": "^3.5.8",
     "mongoose": "^5.9.16",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-superfetch": "^0.1.10",
     "relevant-urban": "^2.0.0",
     "shuffle-array": "^1.0.1",
