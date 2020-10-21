@@ -38,9 +38,9 @@ module.exports = {
         const voted = await getVoteMulti(message.member) > 0
 
         const embed = new MessageEmbed()
-        embed.setURL("")
+        embed.setURL("https://404error.com")
         embed.setDescription("Voting is currently unavailable")
-        embed.setFooter("Created By Jeremy#6414")
+        embed.setFooter("Created By Jeremy#2000")
 
         if (voted) {
 
