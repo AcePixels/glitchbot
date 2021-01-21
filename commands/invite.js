@@ -12,7 +12,7 @@ module.exports = {
         let embed = new MessageEmbed()
         .setTitle("Invite Glitch!")
         .setColor(color)
-        .setDescription("<:invitelink:716318362061373501> [Click Here To Invite Glitch!](https://discord.com/api/oauth2/authorize?client_id=716538261572419625&permissions=8&scope=bot)")
+        .setDescription("<:invitelink:716318362061373501> [Click Here To Invite Glitch!](https://discord.com/api/oauth2/authorize?client_id=718866930173345853&permissions=8&scope=bot)")
         .setTimestamp()
         .setFooter(message.member.displayName, message.member.user.displayAvatarURL());
 
